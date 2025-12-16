@@ -64,3 +64,12 @@ The output might be:
 
 ## TODO
 - Deploy to Android Termux.
+
+---
+
+## More
+
+- [【教程】旧手机别丢! 教你做一个哭声/声音检测器](https://xfxuezhang.blog.csdn.net/article/details/155922809)
+
+
+
