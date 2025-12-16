@@ -36,6 +36,10 @@ The output might be:
 
 
 ### Inference
+1. Download [checkpoint](https://github.com/songxf1024/BabyCry/releases/tag/checkpoint).
+
+2. Start infer.
+
 ```bash
 python infer.py --ckpt_dir ./checkpoints --wav ./dataset/test/test_4.wav --topk 3
 ```
