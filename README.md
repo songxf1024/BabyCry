@@ -25,6 +25,9 @@ BabyCry/
 conda create -n cry python=3.10 -y
 conda activate cry
 
+sudo apt-get install -y cmake g++ make protobuf-compiler libprotobuf-dev build-essential python3-dev
+python -m pip install -U pip setuptools wheel
+
 pip install -r requirements.txt
 ```
 
