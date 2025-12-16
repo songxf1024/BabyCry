@@ -1,0 +1,4 @@
+paddlepaddle-gpu
+paddlespeech
+paddleaudio
+paddle2onnx
