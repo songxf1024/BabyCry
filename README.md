@@ -3,12 +3,21 @@ Baby Cry Classification Based on PaddleSpeech
 
 
 ## Usage
-Install dependencies at first.
+1. Install dependencies.
+
 ```bash
 conda create -n cry python=3.10
 conda activate cry
 
 pip install -r requirements.txt
+```
+
+2. Download code.
+
+```bash
+git clone https://github.com/songxf1024/BabyCry.git
+
+cd BabyCry
 ```
 
 ### Training
